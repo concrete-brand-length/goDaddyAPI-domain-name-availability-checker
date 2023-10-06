@@ -1,0 +1,8 @@
+
+06-Oct-2023 00:54 - Domain concrete-brand-length.com is available for purchase
+
+Details of the response: 
+	- available: True
+	- domain: concrete-brand-length.com
+	- period: 1 year
+	- Price in GBP: £10.19 @ 0.85 GBP to 1 USD
